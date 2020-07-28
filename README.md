@@ -1,6 +1,10 @@
-# AngularTest
+# Auth Guard Login Dynamic forms
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
+This project is build in Bootstrap and angular material.
+
+User credentials
+admin@admin.com/123456
+test@test.com/123456
 
 ## Development server
 
